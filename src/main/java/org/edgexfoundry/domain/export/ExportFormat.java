@@ -23,5 +23,5 @@ package org.edgexfoundry.domain.export;
  * Client expressed export data format
  */
 public enum ExportFormat {
-	JSON, XML, SERIALIZED, AZURE_JSON, CSV 
+	JSON, XML, SERIALIZED, IOTCORE_JSON, AZURE_JSON, CSV 
 }
