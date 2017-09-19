@@ -20,5 +20,5 @@
 package org.edgexfoundry.domain.export;
 
 public enum ExportDestination {
-	MQTT_TOPIC, ZMQ_TOPIC, AZURE_MQTT, REST_ENDPOINT,
+	MQTT_TOPIC, ZMQ_TOPIC, IOTCORE_MQTT, AZURE_MQTT, REST_ENDPOINT,
 }
