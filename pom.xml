@@ -22,16 +22,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.edgexfoundry</groupId>
 	<artifactId>export-domain</artifactId>
-	<version>0.2.0-SNAPSHOT</version>
+	<version>0.5.0-SNAPSHOT</version>
 	<name>EdgeX Foundry Export Domain Library</name>
 	<description>EdgeX Foundry reusable export domain objects</description>
 
 	<properties>
 		<spring.data.mongodb.version>1.9.1.RELEASE</spring.data.mongodb.version>
 		<spring.boot.plugin.version>1.4.0.RELEASE</spring.boot.plugin.version>
-		<core-domain.version>0.2.0-SNAPSHOT</core-domain.version>
-		<core-test.version>0.2.0-SNAPSHOT</core-test.version>
-		<core-exception.version>0.2.0-SNAPSHOT</core-exception.version>
+		<core-domain.version>0.5.0-SNAPSHOT</core-domain.version>
+		<core-test.version>0.5.0-SNAPSHOT</core-test.version>
+		<core-exception.version>0.5.0-SNAPSHOT</core-exception.version>
 		<junit.version>4.11</junit.version>
 		<maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
 		<java.version>1.8</java.version>
